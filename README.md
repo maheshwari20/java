@@ -4,10 +4,7 @@ public class JavaExample
 {
     public static void main(String args[])
     {
-    	/* This program assumes that the student has 6 subjects,
-    	 * thats why I have created the array of size 6. You can
-    	 * change this as per the requirement.
-    	 */
+    	
         int marks[] = new int[6];
         int i;
         float total=0, avg;
